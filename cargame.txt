@@ -1,20 +1,20 @@
 Car Guessing Game
 Answer some yes or no question for a guess
-160 Is it a 21st Century car?
-80 Is it a luxury car?
-240 Is it a luxury car?
-40 Is it from an Indian brand?
-120 Is it a SUV?
-200 Is it a Vintage car?
-280 Is it a Sedan?
-20 Is it a SUV?
-60 Is it electric?
-100 is it 7/8 Seater?
-140 Is it a hyundai car?
-180 Is it a 2 Seater?
-220 Is it from Audi?
-260 Is it from before 90s
-300 Is it Air Conditioned
+160 Is it a 21st Century car? (Y/N)
+80 Is it a luxury car? (Y/N)
+240 Is it a luxury car? (Y/N)
+40 Is it from an Indian brand? (Y/N)
+120 Is it a SUV? (Y/N)
+200 Is it a Vintage car? (Y/N)
+280 Is it a Sedan? (Y/N)
+20 Is it a SUV? (Y/N)
+60 Is it electric? (Y/N)
+100 is it 7/8 Seater? (Y/N)
+140 Is it a hyundai car? (Y/N)
+180 Is it a 2 Seater? (Y/N)
+220 Is it from Audi? (Y/N)
+260 Is it from before 90s?  (Y/N)
+300 Is it Air Conditioned (Y/N)
 10 Its Scorpio
 30 Its CIAZ
 50 Its MG Comet
