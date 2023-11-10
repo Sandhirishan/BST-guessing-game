@@ -15,6 +15,14 @@ Dhruv Sovasaria RA2211003010667
 
 ![Play](https://raw.githubusercontent.com/Sandhirishan/BST-guessing-game/main/screenshots/play.jpg)
 
+![Play](https://raw.githubusercontent.com/Sandhirishan/BST-guessing-game/main/screenshots/play2.jpg)
+
+![Play](https://raw.githubusercontent.com/Sandhirishan/BST-guessing-game/main/screenshots/play3.jpg)
+
+![Play](https://raw.githubusercontent.com/Sandhirishan/BST-guessing-game/main/screenshots/play4.jpg)
+
+![Play](https://raw.githubusercontent.com/Sandhirishan/BST-guessing-game/main/screenshots/play5.jpg)
+
 ![display](https://raw.githubusercontent.com/Sandhirishan/BST-guessing-game/main/screenshots/display.jpg)
 
 ![inorder](https://raw.githubusercontent.com/Sandhirishan/BST-guessing-game/main/screenshots/in.jpg)
