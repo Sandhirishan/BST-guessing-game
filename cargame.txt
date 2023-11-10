@@ -1,0 +1,33 @@
+Car Guessing Game
+Answer some yes or no question for a guess
+160 Is it a 21st Century car?
+80 Is it a luxury car?
+240 Is it a luxury car?
+40 Is it from an Indian brand?
+120 Is it a SUV?
+200 Is it a Vintage car?
+280 Is it a Sedan?
+20 Is it a SUV?
+60 Is it electric?
+100 is it 7/8 Seater?
+140 Is it a hyundai car?
+180 Is it a 2 Seater?
+220 Is it from Audi?
+260 Is it from before 90s
+300 Is it Air Conditioned
+10 Its Scorpio
+30 Its CIAZ
+50 Its MG Comet
+70 Its Polo
+90 Its XUV
+110 Its Creta
+130 Its i20
+150 Its Nano
+170 Its Corvette
+190 Its Ferrari250 GT
+210 Its Audi a8
+230 Its Lexus LS 400
+250 Its Mitsubishi Lancer
+270 Its Dzire
+290 Its Sonet
+310 Its Bolero

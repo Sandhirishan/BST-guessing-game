@@ -31,12 +31,12 @@ class BinaryTreeQuiz:
             print(current_node.question)
             user_input = input().strip().lower()
 
-            if user_input == "yes" and current_node.left:
+            if user_input == "y" and current_node.left:
                 current_node = current_node.left
-            elif user_input == "no" and current_node.right:
+            elif user_input == "n" and current_node.right:
                 current_node = current_node.right
             else:
-                print("Invalid input. Please enter 'Yes' or 'No'.")
+                print("Invalid input. Please enter 'y' or 'n'.")
 
         return "Final Answer: " + current_node.question
 
@@ -94,7 +94,7 @@ class BinaryTreeQuiz:
 
 if __name__ == "__main__":
     bt = BinaryTreeQuiz()
-    file_name = "game1.txt"
+    file_name = "cargame.txt"
     bt.read_input_from_file(file_name)
 
     while True:

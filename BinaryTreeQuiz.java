@@ -46,12 +46,12 @@ public class BinaryTreeQuiz {
             System.out.println(currentNode.question);
             String userInput = scanner.nextLine().trim().toLowerCase();
 
-            if (userInput.equals("yes") && currentNode.left != null) {
+            if (userInput.equals("y") && currentNode.left != null) {
                 currentNode = currentNode.left;
-            } else if (userInput.equals("no") && currentNode.right != null) {
+            } else if (userInput.equals("n") && currentNode.right != null) {
                 currentNode = currentNode.right;
             } else {
-                System.out.println("Invalid input. Please enter 'Yes' or 'No'.");
+                System.out.println("Invalid input. Please enter 'y' or 'n'.");
             }
         }
 
@@ -136,8 +136,8 @@ public class BinaryTreeQuiz {
 
     public static void main(String[] args) {
         BinaryTreeQuiz bt = new BinaryTreeQuiz();
-        String filename="game1.txt";
-        bt.readInputFromFile("game1.txt");
+        String filename="cargame.txt";
+        bt.readInputFromFile(filename);
         Scanner scanner = new Scanner(System.in);
 
         while (true) {
@@ -157,7 +157,7 @@ public class BinaryTreeQuiz {
                 case "l":
                     System.out.println("Enter file path or name");
                     filename = scanner.nextLine();
-                    bt.readInputFromFile("game1.txt");
+                    bt.readInputFromFile(filename);
                 case "d":
                     bt.displaytree(scanner);
                     break;
